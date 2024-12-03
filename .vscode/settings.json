@@ -1,0 +1,17 @@
+{
+    "folder-color.pathColors": [
+        
+        {
+            "folderPath": "newapp\\src\\Screens\\Home Screen\\",
+            "color": "foldercolorizer.LightYellow"
+        },
+        {
+            "folderPath": "newapp\\src\\Colors\\",
+            "color": "foldercolorizer.MaximumYellowRed"
+        }
+    ],
+    "folder-path-color.folders": [
+
+
+    ]
+}
